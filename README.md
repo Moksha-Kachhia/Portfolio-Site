@@ -13,8 +13,8 @@ Welcome to the repo for my personal portfolio site! This site is cafe themed sin
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Moksha-Kachhia/StudyLet.git
-cd Studylet
+git clone https://github.com/Moksha-Kachhia/moksha-cafe.git
+cd moksha-cafe
 ```
 
 2. **Install dependencies:**
